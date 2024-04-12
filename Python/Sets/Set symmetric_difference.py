@@ -1,8 +1,7 @@
 """
-Title     : Symmetric Difference
+Title     : Set .symmetric_difference() Operation
 Subdomain : Sets
 Domain    : Python
-Problem   : https://www.hackerrank.com/challenges/symmetric-difference/problem
 """
 
 num_eng = int(input())
